@@ -30,21 +30,34 @@ Oyunda, yaşlanmak istemeyen Arvus adında yaşlı bir adamın gençliğe ulaşm
 * Hikâye odaklı bağımsız oyun takipçileri
 * Mobil ve PC platformunda deneysel oyunları tercih eden kullanıcılar
 # SPRINT 1
-* İlk sprint için puan hedefi 7 olarak belirlenmiştir.
-* **Puanlama Mantığı:** Proje boyunca tamamlanması gereken puan 47 olarak belirlenmiştir. İlk Sprint için bitirilmesi hedeflenen görevler 7 puanı oluşturmaktadır.
-* İlk sprint boyunca oyun fikrinin geliştirilmesine odaklanılmıştır.
-* Proje yönetim aracı olarak Trello boardu oluşturulmuştur.
+## Sprint Notları
+İlk sprintte, proje geliştirme sürecinin temelleri atılmıştır. Odak, oyun fikrinin geliştirilmesi ve proje sürecinin nasıl ilerleyeceğinin planlanması üzerine olmuştur. Toplantılar yoluyla fikir alışverişi yapılmış ve kararlar alınmıştır.
+Proje yönetim aracı olarak Trello boardu oluşturulmuştur.
+## Tahmin Edilen Tamamlanacak Puan
+* Proje boyunca tamamlanması gereken puan 47 olarak belirlenmiştir.
+* İlk sprint için hedeflenen tamamlanacak puan: 7 puan
+## Tahmin Mantığı
+Proje görevleri, zorluk ve iş yüküne göre puanlandırılmıştır. İlk sprint başlangıç aşaması olduğundan, daha düşük yoğunlukta ve ön hazırlık odaklı görevler seçilmiş, bu da 7 puanlık hedefe karşılık gelmiştir.
+## Daily Scrum
+* Daily Scrum toplantıları ilk sprintte düzenli olarak gerçekleştirilememiştir.
 * Whatsapp ve Zoom üzerinden görüşmeler yapılmıştır.
-* [Whatsapp konuşmaları](https://docs.google.com/document/d/1gBL40rCvpz2zBoovCE8yGioQaFYtKMGamRSPLKvoGQ4/edit?addon_store&tab=t.0)
+* Sonraki sprintlerde daha planlı bir toplantı takvimi oluşturulmasına karar verilmiştir.
+* [Whatsapp Konuşmaları](https://docs.google.com/document/d/1gBL40rCvpz2zBoovCE8yGioQaFYtKMGamRSPLKvoGQ4/edit?addon_store&tab=t.0)
 
-**Sprint Board Update**
+## Sprint Board Update
 
 ![Ekran görüntüsü 2025-07-06 223622](https://github.com/user-attachments/assets/c5b9653b-03a5-47f7-adfe-dab677e7c847)
 
-**Sprint Review**
+## Sprint Review
 * Oyun teması, hikayesi ve bölümleri belirlenmiş ve detaylandırılmıştır.
 * Karakter sayısı ve özellikleri belirlenmiştir.
+* Trello üzerinden görev paylaşımı yapıldı.
+* Takım içi roller ve iletişim araçları belirlendi.
 
-**Sprint Retrospective**
-* Ekip üyelerinin kişisel nedenleri dolayısıyla yeterince aktif bir süreç geçirilememiştir.
+## Sprint Retrospective
+* Ekip içi katılım kişisel sebeplerle zaman zaman düşük kalmıştır.
 * Daily scrumlar düzenli şekilde yapılamamıştır.
+* Ekip motivasyonu iyi olmakla birlikte zaman yönetiminde gelişim gerekiyor.
+* İlk sprintin sonunda ekip içi görev ve sorumluluk dağılımı daha net hale geldi.
+
+
