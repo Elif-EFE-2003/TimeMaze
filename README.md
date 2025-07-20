@@ -60,4 +60,36 @@ Proje görevleri, zorluk ve iş yüküne göre puanlandırılmıştır. İlk spr
 * Ekip motivasyonu iyi olmakla birlikte zaman yönetiminde gelişim gerekiyor.
 * İlk sprintin sonunda ekip içi görev ve sorumluluk dağılımı daha net hale geldi.
 
+# SPRINT 2
+## Sprint Notları
+İkinci sprintte, oyunun prototipine yönelik ilk adımlar atılmıştır. Oyun mekaniklerinin temel mantığı üzerine çalışmalar yapılmış, görev dağılımları daha belirgin hale gelmiştir.
 
+## Tahmin Edilen Tamamlanacak Puan
+Bu sprint için hedeflenen tamamlanacak puan: 20
+
+## Tahmin Mantığı
+Bu sprintte daha teknik içerikli ve zaman alıcı görevler planlandığı için önceki sprintten daha yüksek bir puan ve kalan 40 puanın yarısı hedeflenmiştir. 
+
+## Daily Scrum
+* Daily scrum toplantıları, ekip üyelerinin yoğunlukları nedeniyle düzenli olarak yapılamamıştır.
+* Günlük iletişim WhatsApp üzerinden sürdürülmeye çalışılmıştır.
+* Gelişmeler bireysel olarak paylaşılsa da, günlük toplantı formatına tam anlamıyla uyulamamıştır.
+  
+## Sprint Board Update
+<img width="1260" height="840" alt="image" src="https://github.com/user-attachments/assets/283cef62-9d73-4b7c-96fc-dc15085da7d5" />
+
+## Product Update
+![WhatsApp Görsel 2025-07-20 saat 21 19 58_1d00a088](https://github.com/user-attachments/assets/b38b48c4-511c-4833-96a5-81452a84be2c)
+
+## Sprint Review
+* [Hikaye ve Oyun Akışı](https://miro.com/app/board/uXjVIg63RVY=/)
+* [ASSETS](https://miro.com/app/board/uXjVJd3E4NU=/)
+* Görev paylaşımı netleşti ve bireysel sorumluluklar belirlendi.
+* Oyunun temel mekanikleri belirlendi.
+* Oyunda geçecek bazı temel objelerin listesi çıkarıldı.
+  
+  
+## Sprint Retrospective
+* Takım motivasyonu genel olarak olumlu seyretti.
+* Zaman yönetimi açısından ekip içi koordinasyonda geliştirmeler yapılması gerektiği tespit edildi.
+* Sprint 3 için daha verimli zaman yönetimi ve düzenli iletişim sağlanması hedeflenmiştir. Ayrıca, görev takibi konusunda daha sık güncellemeler yapılacak ve ekip üyeleri arasında daha fazla etkileşim sağlanacaktır.
