@@ -74,6 +74,7 @@ Bu sprintte daha teknik içerikli ve zaman alıcı görevler planlandığı içi
 * Daily scrum toplantıları, ekip üyelerinin yoğunlukları nedeniyle düzenli olarak yapılamamıştır.
 * Günlük iletişim WhatsApp üzerinden sürdürülmeye çalışılmıştır.
 * Gelişmeler bireysel olarak paylaşılsa da, günlük toplantı formatına tam anlamıyla uyulamamıştır.
+* [WhatsApp Konuşmaları](https://docs.google.com/document/d/1oVX6vD9OF-HAl0H_3MNyrLrUlhi9XYCQyU2yRakFb_A/edit?usp=sharing)
   
 ## Sprint Board Update
 <img width="1260" height="840" alt="image" src="https://github.com/user-attachments/assets/283cef62-9d73-4b7c-96fc-dc15085da7d5" />
