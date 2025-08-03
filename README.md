@@ -88,9 +88,47 @@ Bu sprintte daha teknik içerikli ve zaman alıcı görevler planlandığı içi
 * Görev paylaşımı netleşti ve bireysel sorumluluklar belirlendi.
 * Oyunun temel mekanikleri belirlendi.
 * Oyunda geçecek bazı temel objelerin listesi çıkarıldı.
-  
-  
+ 
 ## Sprint Retrospective
 * Takım motivasyonu genel olarak olumlu seyretti.
 * Zaman yönetimi açısından ekip içi koordinasyonda geliştirmeler yapılması gerektiği tespit edildi.
 * Sprint 3 için daha verimli zaman yönetimi ve düzenli iletişim sağlanması hedeflenmiştir. Ayrıca, görev takibi konusunda daha sık güncellemeler yapılacak ve ekip üyeleri arasında daha fazla etkileşim sağlanacaktır.
+  
+# SPRINT 3
+## Sprint Notları
+Üçüncü sprintte, oyunun prototipinin tamamlanmasına ve oynanabilir hale getirilmesine odaklanılmıştır. Başlangıçta birden fazla bölüm planlanmış olsa da, ekip üyelerinin zaman kısıtları göz önünde bulundurularak yalnızca bir bölümün geliştirilmesine karar verilmiştir. Bu karar sayesinde daha kaliteli ve tamamlanabilir bir çıktı elde edilmesi hedeflenmiştir.
+
+## Tahmin Edilen Tamamlanacak Puan
+Bu sprint için hedeflenen tamamlanacak puan: 10
+
+## Tahmin Mantığı
+Bu sprintte yapılması planlanan kalan görevlerin toplamı 10 puan olarak belirlenmiştir. İçeriğin sadeleştirilmesiyle birlikte görev sayısı da buna uygun şekilde azaltılmıştır.
+
+## Daily Scrum
+* Daily Scrum toplantıları bu sprintte de tam anlamıyla gerçekleştirilememiştir.
+* Whatsapp üzerinden iletişim kurulmaya devam edilmiştir
+* Gelişmeler bireysel olarak paylaşılmıştır.
+* [WhatsApp Konuşmaları](https://docs.google.com/document/d/1o8q5IZezeg4aFugNjd-aU-7MrmhDvmmWWoez31Sfoks/edit?usp=sharing)
+  
+## Sprint Board Update
+<img width="2520" height="1680" alt="Ekran görüntüsü 2025-08-03 204111" src="https://github.com/user-attachments/assets/b99d807f-d8c3-4dd5-b970-e2118605988d" />
+
+## Product Update
+![WhatsApp Görsel 2025-08-03 saat 21 20 21_9e2dbbc1](https://github.com/user-attachments/assets/a88a2f70-9fe3-4792-8a5f-6eecb4033f6a)
+![WhatsApp Görsel 2025-08-03 saat 21 24 19_ea54c432](https://github.com/user-attachments/assets/0a159e77-6067-480f-a083-1a94d7f77bbc)
+![WhatsApp Görsel 2025-08-03 saat 21 27 09_c7f7756d](https://github.com/user-attachments/assets/c3bd6380-2142-46f5-a9b7-48b8708c44a2)
+![WhatsApp Görsel 2025-08-03 saat 21 27 09_7342daa7](https://github.com/user-attachments/assets/4cc678e8-a754-4c9f-b626-aa086fa0560d)
+
+[YouTube Videosu](https://youtu.be/OqWhQjTdEfs)
+
+## Sprint Review 
+* Oyun planlandığı gibi tüm bölümleriyle tamamlanamayacağı anlaşıldıktan sonra ekip mevcut durumu değerlendirmiştir.
+* Bu değerlendirme sonucunda, yalnızca bir bölümün oynanabilir hale getirilmesine karar verilmiştir.
+* İçerik sadeleştirilmiş, görsel ve mekanik öğeler bu plana göre güncellenerek tamamlanmıştır.
+* Oyun, tüm bölümleriyle tamamlanamasa da geliştirilen tek bölüm, projenin ana fikrini yansıtan ve temel mekanikleri barındıran bir örnek olarak başarıyla ortaya konmuştur.
+
+## Sprint Retrospective
+* Ekip üyelerinin kişisel nedenlerle yaşadığı zaman kısıtları, projenin ilk hedeflerine ulaşılmasını zorlaştırmıştır.
+* Buna rağmen ekip durumu hızlıca değerlendirmiş ve gerçekçi bir çözüm yoluna giderek sadece bir bölüme odaklanmıştır.
+* Tüm zorluklara rağmen ekip üyeleri iletişimi sürdürmüş, esnek kararlar alarak sürece uyum göstermiştir.
+* Ekip üyeleri, yaşanan aksaklıklardan önemli dersler çıkararak daha etkili sprint planlaması ve zaman yönetimi için farkındalık kazanmıştır.
